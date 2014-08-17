@@ -1,0 +1,209 @@
+* {
+	padding: 0px;
+	margin: 0 ;
+}
+
+body {
+	margin: 50px 0 0 0;
+	font: 10px Arial, sans-serif ;
+	color: #FFFFFF;
+}
+
+ul {
+	list-style: none ;
+	margin: 7px 13px ; 
+	text-align: left ;
+}
+
+a {
+	text-decoration: none ;
+	color: #353847; 
+	border-bottom: 1px solid #BA7D7D ; 
+}
+
+div#container {
+	position: relative ;
+	width: 576px ;
+	margin: 0 auto ;
+	background: url(containerBg.gif) top left repeat-y ;
+	border-bottom: 17px solid #fff ;
+}
+
+div#preamble {
+	width: 400px;
+	margin: 0 0 0 170px;
+	text-align: justify;
+}
+
+div#explanation {
+	width: 400px;
+	margin: 0 0 0 170px;
+	text-align: justify;
+}
+
+div#participation {
+	width: 400px;
+	margin: 0 0 0 170px;
+	text-align: justify;
+}
+
+div#benefits {
+	width: 400px;
+	margin: 0 0 0 170px;
+	text-align: justify;
+}
+
+div#requirements {
+	width: 342px ;
+	margin: 0 0 0 18px ;
+}
+
+div#linkList {
+	position: absolute ;
+	top: 240px;
+	left: 20px;
+	width: 140px;
+}
+
+div#footer {
+	z-index: 2;
+	top: 262px;
+	left: 404px;
+	font: 9px Arial,verdana, sans-serif;
+	padding-left: 190px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#pageHeader h1 span {
+}
+
+div#pageHeader h1 {
+	width: 576px;
+	height: 224px;
+	background: url(subway.jpg) top left no-repeat;
+	text-align: center;
+}
+
+div#pageHeader h2 {
+}
+
+div#preamble h3 {
+	width: 342px;
+	height: 25px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#preamble h3 span {
+}
+
+div#explanation h3 {
+	width: 342px;
+	height: 25px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+div#participation h3 {
+	width: 342px;
+	height: 25px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+div#benefits h3 {
+	width: 342px;
+	height: 25px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+h3.select {
+	width: 189px ;
+	height: 40px ;
+}
+
+h3.archives {
+	width: auto;
+	height: 40px;
+	padding-left: 20px;
+}
+
+div#footer a:link, div#footer a:visited, div#footer a:active {
+	text-decoration: none ;
+	font-weight: bold ;
+	color: #BBB39B ;
+	border: 0 ;
+}
+
+div#footer a:hover {
+	color: #E8C55C ;
+	font-weight: bold ;
+	text-decoration: none ;
+	border: 0 ;
+}
+
+#lselect a:link.c, #lselect a:visited.c, #lselect a:active.c {
+	color: #A59B84 ;
+	font-weight: bold ;
+	display: inline ;
+	border: 0 ;
+}
+
+#lselect a:hover.c {
+	color: #C6BA9E ;
+	border: 0 ;
+}
+
+#lselect a:link, #lselect a:visited, #lselect a:hover, #lselect a:active {
+	display: block ; 
+	color: #353847;
+	text-decoration: none ;
+	border: 0 ;
+}
+
+#lresources a:link, #lresources a:visited, #lresources a:active {
+	color: #A59B84 ; 
+	border: 0 ;
+}
+
+#lresources a:hover {
+	color: #C7C4BD ;
+	border: 0 ;
+}
+
+#larchives a:link, #larchives a:visited, #larchives a:active {
+	color: #A59B84 ; 
+	border: 0 ;
+}
+
+#larchives a:hover {
+	color: #C7C4BD ;
+	border: 0 ;
+}
+	
+div#preamble p {
+	margin: 11px 18px ;
+}
+
+div#explanation p {
+	margin: 11px 18px ;
+}
+
+div#participation p {
+	margin: 11px 18px ;
+}
+
+div#benefits p {
+	margin: 11px 18px ;
+}
+
+div#lselect li {
+	color: #A59B84 ;
+	margin-bottom: 15px ;
+}
+
+div#larchives ul {
+	line-height: 18px ;
+}

@@ -1,0 +1,66 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.title1 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000066;
+}
+.maintable {
+	color: Black;
+	background-position: center;
+	font: 11px;
+	vertical-align: middle;
+}
+
+.title2 {
+	font-size: 11px;
+	font-weight: bold;
+	color: #3366CC;
+}
+
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+input, .input { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px ;
+}
+
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	overflow: auto;
+}
+
+.tabeltext {
+	background-color: #FFFFFF;
+}
+
+.tabeltextoneven {
+	background-color: #F5F5F5;	
+}
+
+.iframe, .htable {
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
+
+a {
+	color: #000066;
+	text-decoration: none;
+}
+
+.comment {
+	font-size: 10px;
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}.title3 {
+	font-size: 10px;
+	font-weight: bold;
+	color: #3366CC;
+}

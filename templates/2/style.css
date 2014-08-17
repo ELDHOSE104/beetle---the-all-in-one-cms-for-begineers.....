@@ -1,0 +1,176 @@
+
+
+body { 
+	font:8pt verdana; 
+	background: #520B00;
+	margin:0;
+	padding:0;
+	}
+.style5 {color: #003366}
+.style6 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style7 {color: #FFFFFF}
+
+
+#navcontainer { width: 150px; }
+
+#navlist
+{
+padding: 1px;
+margin-left: 0;
+font: 11px verdana, sans-serif;
+width: 14em;
+color: gray; }
+
+#navlist li
+{
+list-style: none;
+margin: 0px;
+border-left: 0px #004080 solid;
+border-bottom: 1px #9C3D00 solid;
+text-align: left;
+}
+
+#navlist li a
+{
+display: block;
+padding: 0.7em 0.5em 0.7em 0.9em;
+text-decoration: none;
+}
+
+#navlist li a:link { color: #000; }
+#navlist li a:visited { color: #006; }
+
+#navlist li a:hover
+{
+font-weight:none;
+text-align: right;
+color: #FFFFFF;
+background: #9C3D00;
+border-left: 8px #9C3D00 solid;
+}
+
+h1 {
+
+	font:28pt verdana, arial, sans-serif;
+	color:#666;
+	margin:0;
+	padding:20px;
+}
+
+h2 {
+
+	font:14pt verdana, arial, sans-serif;
+	color:#666;
+	padding:10px;
+	margin:0;
+        text-align: center;
+}
+
+h3 {
+
+	font:14pt verdana, arial, sans-serif;
+	color:#666;
+	padding:10px;
+	margin:0;
+        text-align: left;
+}
+
+h4 {
+
+	font:19pt verdana, arial, sans-serif;
+	color:#666;
+	padding:10px;
+	margin:0;
+        text-align: left;
+}
+
+h5 {
+
+	font:14pt verdana, arial, sans-serif;
+	color:#666;
+	padding:10px;
+	margin:0;
+        text-align: center;
+}
+
+p { 
+	font: 8pt verdana; 
+	margin: 0px; 
+	text-align: justify;
+	}
+	
+#contain {
+
+	width:840px;
+	border-right:2px solid #FFFFFF;
+	border-left:2px solid #FFFFFF;
+	margin-left:auto;
+	margin-right:auto;
+	background: #FFF ;
+        }
+	
+#header {
+        background: #FFF url('header.jpg') right no-repeat;
+	width:840px;
+        height:165px;
+	border-bottom:1px solid #CCC;
+	
+}
+
+#leftcol {
+
+	width:150px;
+	float:left;
+	padding:5px 0 5px 0;
+	background-color: #fff;
+
+}
+
+#leftcol p {
+
+	padding:3px 18px 3px 18px;
+	margin:0;
+
+}
+
+#content {
+
+	margin-left:190px;
+	width:600px
+
+}
+
+#content p {
+
+	padding:3px 18px 3px 18px;
+	margin:0;
+
+}
+
+#footer {
+
+	width:840px;
+	clear:left;
+
+	background: #9C3D00;
+	padding: 3px 0 3px 0;
+
+}
+
+#footer p {
+	text-align:center;
+	padding-right:8px;
+	font:8pt verdana, arial, sans-serif;
+        
+}
+
+
+#leftImg
+{
+float:left;
+padding: 0 0px 0px 0;
+}
